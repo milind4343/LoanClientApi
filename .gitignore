@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/LoanMgntAPI/v15/Server/sqlite3
+/LoanMgntAPI/bin
+/LoanMgntAPI/obj
+/LoanMgntAPI/Properties
+/Utility/bin
+/Utility/obj
